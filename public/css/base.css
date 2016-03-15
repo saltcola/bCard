@@ -1,0 +1,41 @@
+body {
+    background-color: #ecf0f1;
+    font-family: "Source Sans Pro", sans-serif;
+    /* Box model */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#bCard {
+    /* Box-model */
+    width: 50vw;
+    padding: 20px;
+    /* Visual */
+    background-color: white;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.quote {
+    font-weight: 200;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+img {
+    border-radius: 50%;
+    border: 5px solid #ecf0f1;
+    width: 50%;
+    max-width: 150px;
+}
+
+.icon-link,
+.icon-link:visited {
+    color: #ecf0f1;
+}
+
+.icon-link:hover {
+    color: #2980b9;
+}
