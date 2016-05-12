@@ -1,3 +1,3 @@
 # bCard
 
-This is a practice for html and css. 
+This is a practice for HTML and CSS. 
